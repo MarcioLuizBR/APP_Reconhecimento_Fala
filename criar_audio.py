@@ -2,7 +2,7 @@ import speech_recognition as sr
 
 rec = sr.Recognizer()
 
-with sr.Microphone(device_index=3) as microfone:
+with sr.Microphone(device_index=2) as microfone:
     rec.adjust_for_ambient_noise(microfone)
     print("Pode começar a falar")
     audio = rec.listen(microfone)
