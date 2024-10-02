@@ -1,6 +1,6 @@
 # Aplicativo de Reconhecimento de Fala em Python
 
-Este projeto é um aplicativo de reconhecimento de fala desenvolvido em Python, utilizando as bibliotecas `SpeechRecognition` e `PyAudio`. Ele permite capturar áudio em tempo real, salvar gravações e realizar a transcrição de arquivos de áudio.
+Este projeto de reconhecimento de fala desenvolvido em Python, utilizando as bibliotecas `SpeechRecognition` e `PyAudio`. Ele permite capturar áudio em tempo real, salvar gravações e realizar a transcrição de arquivos de áudio.
 
 ## Estrutura do Projeto
 
